@@ -1,1 +1,1 @@
-bash echo "Hello, World"
+bash echo -e "Hello, World\n"
